@@ -16,7 +16,7 @@ We use an [Edition Drop](https://portal.thirdweb.com/pre-built-contracts/edition
 - Clone this repository by running:
 
 ```bash
-npx create-tw-app --example nft-gated-website
+npx thirdweb create --example nft-gated-website
 ```
 
 - Replace the address in `useEditionDrop` with your Edition Drop contract address from the dashboard.
